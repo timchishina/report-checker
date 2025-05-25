@@ -1,0 +1,4 @@
+org/example/analysis/controller/FileAnalysisController.class
+org/example/analysis/model/TextStatistics.class
+org/example/analysis/FileAnalysisServiceApplication.class
+org/example/analysis/service/TextAnalysisService.class

@@ -1,0 +1,4 @@
+org/example/storage/FileStorageServiceApplication.class
+org/example/storage/controller/FileController.class
+org/example/storage/model/StoredFileInfo.class
+org/example/storage/service/FileStorageService.class

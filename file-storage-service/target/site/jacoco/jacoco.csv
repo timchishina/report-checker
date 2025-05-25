@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+file-storage-service,org.example.storage.service,FileStorageService,124,0,0,0,31,0,6,0,6,0
+file-storage-service,org.example.storage.model,StoredFileInfo,21,0,0,0,8,0,4,0,4,0
+file-storage-service,org.example.storage,FileStorageServiceApplication,8,0,0,0,3,0,2,0,2,0
+file-storage-service,org.example.storage.controller,FileController,24,0,0,0,7,0,4,0,4,0
